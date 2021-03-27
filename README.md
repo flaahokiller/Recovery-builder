@@ -59,3 +59,4 @@ Recovery building help from [***Pulkit***](t.me/Pulkit077)
 And lastly, all TWRP compiling help from Google.
 
 Enjoy buildbotting.
+[![Building recovery](https://github.com/flaahokiller/Recovery-builder/actions/workflows/recovery.yml/badge.svg)](https://github.com/flaahokiller/Recovery-builder/actions/workflows/recovery.yml)
