@@ -14,12 +14,12 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/JamieHoSzeYui/android_recovery_xiaomi_rosy
-  DT_PATH: device/xiaomi/rosy
-  KERNEL_LINK: https://github.com/Pulkit077/kernel_xiaomi_rosy
-  KERNEL_PATH: kernel/xiaomi/rosy
+  MANIFEST: git://github.com/RedWolfRecovery/rw_manifest.git -b rw
+  DEVICE: ysl
+  DT_LINK: https://github.com/lostark13/device_xiaomi_ysl_twrp
+  DT_PATH: device/xiaomi/ysl
+  KERNEL_LINK: https://github.com/ItsVixano/android_kernel_xiaomi_ysl -b twrp
+  KERNEL_PATH: kernel/xiaomi/ysl
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
