@@ -15,10 +15,10 @@ on:
 
 env:
   MANIFEST: git://github.com/SHRP/platform_manifest_twrp_omni.git -b v3_9.0
-  DEVICE: pine
-  DT_LINK: https://github.com/flashokiller/android_device_xiaomi_pine-pbrp
+  DEVICE: PD1928F_EX
+  DT_LINK: https://github.com/flashokillerify/android_device_vivo_PD1928F_EX
   DT_PATH: device/xiaomi/pine
-  TARGET: recoveryzip
+  TARGET: recoveryimage
   TZ: Asia/Kolkata
 
 jobs:
